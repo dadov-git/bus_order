@@ -1,0 +1,1 @@
+const backendUrl = "https://bibiptrip.com/api/avibus";
